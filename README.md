@@ -1,3 +1,5 @@
+q러닝, mdp에서의 밸류이터레이션을 이해하고 코드화해보았다. 
+
 # AI 인공지능
 See Midterm and Final Project:
 https://sites.google.com/hanyang.ac.kr/2021ai
